@@ -14,7 +14,7 @@
     "dependencies": {
         "@percy/cli": "1.23.0",
         "@percy/playwright": "1.0.4",
-        "@playwright/test": "1.32.3",
+        "@playwright/test": "1.33.0",
         "async-wait-until": "2.0.12",
         "chalk": "4.1.2",
         "deepmerge": "4.3.1",
