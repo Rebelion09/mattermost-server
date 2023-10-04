@@ -21,7 +21,7 @@
         "dotenv": "16.0.3",
         "form-data": "4.0.0",
         "isomorphic-unfetch": "4.0.2",
-        "uuid": "9.0.0"
+        "uuid": "9.0.1"
     },
     "devDependencies": {
         "@types/uuid": "9.0.1",
